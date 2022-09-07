@@ -7,6 +7,12 @@
       "date": ""
     },
     {
+      "key": "推荐",
+      "name": "推荐",
+      "ext": "https://gitea.com/ranran/XYQbox/raw/branch/main/box.json",
+      "date": ""
+    },
+    {
       "key": "线路一",
       "name": "线路一",
       "ext": "https://gitea.com/wy3426/9/raw/branch/9/9/1.json",
