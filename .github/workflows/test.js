@@ -9,7 +9,7 @@
     {
       "key": "推荐",
       "name": "推荐",
-      "ext": "https://gitea.com/ranran/XYQbox/raw/branch/main/box.json",
+      "ext": "https://gitea.com/watson_w/test/raw/branch/main/1.json",
       "date": ""
     },
     {
