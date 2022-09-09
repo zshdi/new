@@ -9,7 +9,7 @@
     {
       "key": "推荐",
       "name": "推荐",
-      "ext": "https://gitea.com/watson_w/test/raw/branch/main/1.json",
+      "ext": "https://fastly.jsdelivr.net/gh/shadowchiu369/TVBox@main/sc.json",
       "date": ""
     },
     {
